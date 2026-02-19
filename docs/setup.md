@@ -1,31 +1,21 @@
-#  Einrichtung der Zürich-Dokumentation
+# Projekt-Details: Einrichtung & Features
 
-Diese Anleitung hilft dir, die Dokumentations-Umgebung lokal zu installieren.
-
-## Voraussetzungen
-Stelle sicher, dass du **Git** auf deinem Computer installiert hast.
+Hier findest du die gesamte Dokumentation kompakt zusammengefasst.
 
 ---
 
-## Installation in zwei Schritten
+### Technische Dokumentation
+```text
+1. INSTALLATION (BASH)
+----------------------
+Um das Projekt zu klonen:
+git clone [https://github.com/Yann-71/Projekt-Dokumentation.git](https://github.com/Yann-71/Projekt-Dokumentation.git)
 
-### 1. Das Repository klonen
-Hole dir die Daten direkt von GitHub auf deinen Mac oder PC:
+Um die Werkzeuge zu installieren:
+npm install
 
-```bash
-git clone [https://github.com/DEIN-USERNAME/Projekt-Dokumentation.git](#  Einrichtung der Zürich-Dokumentation
-
-Diese Anleitung hilft dir, die Dokumentations-Umgebung lokal zu installieren.
-
-## Voraussetzungen
-Stelle sicher, dass du **Git** auf deinem Computer installiert hast.
-
----
-
-## Installation in zwei Schritten
-
-### 1. Das Repository klonen
-Hole dir die Daten direkt von GitHub auf deinen Mac oder PC:
-
-```bash
-git clone [https://github.com/DEIN-USERNAME/Projekt-Dokumentation.git](https://github.com/DEIN-USERNAME/Projekt-Dokumentation.git)
+2. FEATURES & FUNKTIONEN
+------------------------
+* Geschichte Zürichs: Kompakte Übersicht (Römer bis Smart City).
+* Navigation: Schnelle Verlinkung zwischen den Seiten.
+* Hosting: Automatisch live via GitHub Pages.
